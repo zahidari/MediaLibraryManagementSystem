@@ -1,7 +1,7 @@
 # Media Library Management System
 
 Welcome to the Media Library Management System repository! 
-This project is part of the "Praktikum Informatik 1" course at RWTH University. 
+This project is part of the "Praktikum Informatik 2" course at RWTH University. 
 It focuses on concepts like inheritance, polymorphism, and object-oriented programming in C++.
 The project simulates a media library system where users can manage and interact with 
 various types of media items such as books, magazines, and DVDs.
